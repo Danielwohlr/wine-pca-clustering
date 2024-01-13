@@ -9,10 +9,10 @@ This project involves a chemical analysis of wines samples from Italy from three
 
 
 ## Table of Contents
-- [METHODS](#methods)
-- [RESULTS](#results-and-conclusion)
-- [REFERENCES](#references)
-- [IMAGES](#images)
+- [Methods](#methods)
+- [Results](#results-and-conclusion)
+- [References](#references)
+- [Images](#images)
 
 
 ## Methods
