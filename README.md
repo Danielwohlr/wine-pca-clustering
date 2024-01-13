@@ -3,8 +3,8 @@
 This project involves a chemical analysis of wines samples from Italy from three different cultivators, focusing on thirteen different attributes. The goal is to predict the class of wine based on these attributes using K-Nearest Neighbors (K-NN) methods.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="images/correlmat.png" alt="Correlation matrix" title="Correlation matrix of 13 attributes" width="300"/>
-    <img src="images/datasetafterpca.png" alt="Plotted PCA" title="Plotted PCA in 2 dimensions" width="300"/>
+    <img src="images/correlmat.png" alt="Correlation matrix" title="Correlation matrix of 13 attributes" width="400"/>
+    <img src="images/datasetafterpca.png" alt="Plotted PCA" title="Plotted PCA in 2 dimensions" width="400"/>
 </div>
 
 
@@ -12,7 +12,8 @@ This project involves a chemical analysis of wines samples from Italy from three
 - [METHODS](#methods)
 - [RESULTS](#results-and-conclusion)
 - [REFERENCES](#references)
-- [Images](#images)
+- [IMAGES](#images)
+
 
 ## Methods
 
